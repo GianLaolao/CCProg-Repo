@@ -1,0 +1,4 @@
+This is a Budgetting Program Machine Project in CCProg1.
+
+When the program starts it will ask for your Monthly Allowance then allocate your expenses in each category. 
+The sum of all expenses in each category must be equal to your monthly allowance.
